@@ -2,6 +2,13 @@ A_Resource_Whose_Name = actors_gr_GR_cog
 // This is a commented out line
 Candidate_Sponsor = "ΚΑΤΗΧΟΥΜΕΝΟΣ/ΑΝΑΔΟΧΟΣ" // This is a comment
 Chanter = "ΨΑΛΤΗΣ"
+/*
+This
+is
+a
+multi-line
+comment
+*/
 Chanters = "ΨΑΛΤΑΙ"
 ChanterOrReader = "ΨΑΛΤΗΣ/ΑΝΑΓΝΩΣΤΗΣ"
 Choir = "ΧΟΡΟΣ"
